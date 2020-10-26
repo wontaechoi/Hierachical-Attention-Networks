@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-_Note: This is only a navigation guide for the specification, and does not define or mandate terms for any specification-compliant documents._
 
 - [Sections](#sections)
   - [Title](#title)
